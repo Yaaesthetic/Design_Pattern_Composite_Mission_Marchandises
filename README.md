@@ -674,8 +674,3 @@ java ma.Main
 ```
 
 ---
-
-
----
-
-**Project by**: *(Your educational institution or personal project)*
